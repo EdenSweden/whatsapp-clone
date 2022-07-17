@@ -1,4 +1,3 @@
-//start at 1:35:04
 import React, { useContext, useEffect, useState } from 'react';
 import io from 'socket.io-client'; 
 
